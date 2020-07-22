@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+.avatar {
+  height: 7vmin;
+  width: 7vmin;
+}
+.anticon svg {
+  color: #56bd4f;
+}
+.create-card .ant-card-body {
+  padding: 24px 0 0 0!important;
+}
+.company_details {
+  text-align: center;
+}
+.company_details img {
+  height: 12vmin;
+  width: 12vmin;
+  border-radius: 50%!important;
+  margin: 5px 0 18px 40px;
+}
+.company_details .ant-row {
+  margin-top: 15%;
+  text-align: left;
+}
+.company_details .ant-row div {
+  font-size: 11px;
+}
+.company-icon img {
+  border-radius: 50%!important;
+}
+.company-row {
+  width: 60%!important;
+  margin-left: 22%!important;
+}
+.company-list {
+  text-align: center;
+  cursor: pointer;
+  margin-right: -44px!important;
+}
+.create-card {
+  border-style: none!important;
+}
+.color-highlight {
+  color:#4084dd!important;
+}
+.color-highlight-grey {
+  color: #8c929a!important;
+}
+.dark-grey {
+  color: #3c4044!important;
+}
+.company-desc {
+  text-align: left;  
+}
+.company-desc span {
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 14 px !important;
+  
+}
+.company-desc div {
+  font-weight: 500;
+  font-size: 12px!important;
+}
+.detail div{
+  padding-bottom: 10px;
+  color: #585b5f;
+}
+.ant-btn-primary {
+  background: #56bd4f!important;
+  border-color: #56bd4f!important;
+  padding: 0px 40px 0 40px!important;
+}
+.ant-btn-primary span {
+  font-size: 11px!important;
+}
+.one {
+  font-size: 20px!important;
+  font-weight: 500!important;
+  color: #000000d9!important;
+  margin-top: -6px!important;
+}
+.two {
+  font-weight: bold;
+}
+.detail-heading div{
+  padding-bottom: 0px;
+}
+.detail-heading button {
+  padding: 0px 10px!important;
+  font-size: 10px!important;
+  background-color: #f6f8f9!important;
+  border-style: none!important;
+  margin: 3px 5px!important;
+  height: 9%!important;
+}
+.c2 {
+  font-size: 10px!important;
+  margin-bottom: 20px!important;
+}
+.c1 {
+  margin-left: 6px;
+  color: #585b5f;
+  font-weight: 500;
+}
